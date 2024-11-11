@@ -1,0 +1,517 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\android\\android-launchericon-144-144.png",
+      "PackagePath": "staticwebassets\\android\\android-launchericon-144-144.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\android\\android-launchericon-192-192.png",
+      "PackagePath": "staticwebassets\\android\\android-launchericon-192-192.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\android\\android-launchericon-48-48.png",
+      "PackagePath": "staticwebassets\\android\\android-launchericon-48-48.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\android\\android-launchericon-512-512.png",
+      "PackagePath": "staticwebassets\\android\\android-launchericon-512-512.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\android\\android-launchericon-72-72.png",
+      "PackagePath": "staticwebassets\\android\\android-launchericon-72-72.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\android\\android-launchericon-96-96.png",
+      "PackagePath": "staticwebassets\\android\\android-launchericon-96-96.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\assets\\index-NKxlcK6M.css",
+      "PackagePath": "staticwebassets\\assets\\index-NKxlcK6M.css"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\assets\\index-_oz1Lf9s.js",
+      "PackagePath": "staticwebassets\\assets\\index-_oz1Lf9s.js"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\assets\\react-CHdo91hT.svg",
+      "PackagePath": "staticwebassets\\assets\\react-CHdo91hT.svg"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\assets\\th.jpg",
+      "PackagePath": "staticwebassets\\assets\\th.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\assets\\workbox-window.prod.es5-D5gOYdM7.js",
+      "PackagePath": "staticwebassets\\assets\\workbox-window.prod.es5-D5gOYdM7.js"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\icons.json",
+      "PackagePath": "staticwebassets\\icons.json"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\100.png",
+      "PackagePath": "staticwebassets\\ios\\100.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\1024.png",
+      "PackagePath": "staticwebassets\\ios\\1024.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\114.png",
+      "PackagePath": "staticwebassets\\ios\\114.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\120.png",
+      "PackagePath": "staticwebassets\\ios\\120.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\128.png",
+      "PackagePath": "staticwebassets\\ios\\128.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\144.png",
+      "PackagePath": "staticwebassets\\ios\\144.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\152.png",
+      "PackagePath": "staticwebassets\\ios\\152.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\16.png",
+      "PackagePath": "staticwebassets\\ios\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\167.png",
+      "PackagePath": "staticwebassets\\ios\\167.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\180.png",
+      "PackagePath": "staticwebassets\\ios\\180.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\192.png",
+      "PackagePath": "staticwebassets\\ios\\192.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\20.png",
+      "PackagePath": "staticwebassets\\ios\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\256.png",
+      "PackagePath": "staticwebassets\\ios\\256.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\29.png",
+      "PackagePath": "staticwebassets\\ios\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\32.png",
+      "PackagePath": "staticwebassets\\ios\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\40.png",
+      "PackagePath": "staticwebassets\\ios\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\50.png",
+      "PackagePath": "staticwebassets\\ios\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\512.png",
+      "PackagePath": "staticwebassets\\ios\\512.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\57.png",
+      "PackagePath": "staticwebassets\\ios\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\58.png",
+      "PackagePath": "staticwebassets\\ios\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\60.png",
+      "PackagePath": "staticwebassets\\ios\\60.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\64.png",
+      "PackagePath": "staticwebassets\\ios\\64.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\72.png",
+      "PackagePath": "staticwebassets\\ios\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\76.png",
+      "PackagePath": "staticwebassets\\ios\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\80.png",
+      "PackagePath": "staticwebassets\\ios\\80.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\ios\\87.png",
+      "PackagePath": "staticwebassets\\ios\\87.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\sw.js",
+      "PackagePath": "staticwebassets\\sw.js"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\LargeTile.scale-100.png",
+      "PackagePath": "staticwebassets\\windows11\\LargeTile.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\LargeTile.scale-125.png",
+      "PackagePath": "staticwebassets\\windows11\\LargeTile.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\LargeTile.scale-150.png",
+      "PackagePath": "staticwebassets\\windows11\\LargeTile.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\LargeTile.scale-200.png",
+      "PackagePath": "staticwebassets\\windows11\\LargeTile.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\LargeTile.scale-400.png",
+      "PackagePath": "staticwebassets\\windows11\\LargeTile.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SmallTile.scale-100.png",
+      "PackagePath": "staticwebassets\\windows11\\SmallTile.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SmallTile.scale-125.png",
+      "PackagePath": "staticwebassets\\windows11\\SmallTile.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SmallTile.scale-150.png",
+      "PackagePath": "staticwebassets\\windows11\\SmallTile.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SmallTile.scale-200.png",
+      "PackagePath": "staticwebassets\\windows11\\SmallTile.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SmallTile.scale-400.png",
+      "PackagePath": "staticwebassets\\windows11\\SmallTile.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SplashScreen.scale-100.png",
+      "PackagePath": "staticwebassets\\windows11\\SplashScreen.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SplashScreen.scale-125.png",
+      "PackagePath": "staticwebassets\\windows11\\SplashScreen.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SplashScreen.scale-150.png",
+      "PackagePath": "staticwebassets\\windows11\\SplashScreen.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SplashScreen.scale-200.png",
+      "PackagePath": "staticwebassets\\windows11\\SplashScreen.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\SplashScreen.scale-400.png",
+      "PackagePath": "staticwebassets\\windows11\\SplashScreen.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square150x150Logo.scale-100.png",
+      "PackagePath": "staticwebassets\\windows11\\Square150x150Logo.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square150x150Logo.scale-125.png",
+      "PackagePath": "staticwebassets\\windows11\\Square150x150Logo.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square150x150Logo.scale-150.png",
+      "PackagePath": "staticwebassets\\windows11\\Square150x150Logo.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square150x150Logo.scale-200.png",
+      "PackagePath": "staticwebassets\\windows11\\Square150x150Logo.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square150x150Logo.scale-400.png",
+      "PackagePath": "staticwebassets\\windows11\\Square150x150Logo.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-16.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-16.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-20.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-20.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-24.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-24.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-256.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-256.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-30.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-30.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-32.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-32.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-36.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-36.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-40.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-40.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-44.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-44.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-48.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-48.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-60.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-60.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-64.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-64.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-72.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-72.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-80.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-80.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-96.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-96.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-16.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-16.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-20.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-20.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-24.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-24.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-256.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-256.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-30.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-30.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-32.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-32.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-36.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-36.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-40.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-40.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-44.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-44.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-48.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-48.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-60.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-60.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-64.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-64.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-72.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-72.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-80.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-80.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.altform-unplated_targetsize-96.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.altform-unplated_targetsize-96.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.scale-100.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.scale-125.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.scale-150.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.scale-200.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.scale-400.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-16.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-16.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-20.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-20.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-24.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-24.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-256.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-256.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-30.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-30.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-32.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-32.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-36.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-36.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-40.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-40.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-44.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-44.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-48.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-48.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-60.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-60.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-64.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-64.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-72.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-72.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-80.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-80.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Square44x44Logo.targetsize-96.png",
+      "PackagePath": "staticwebassets\\windows11\\Square44x44Logo.targetsize-96.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\StoreLogo.scale-100.png",
+      "PackagePath": "staticwebassets\\windows11\\StoreLogo.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\StoreLogo.scale-125.png",
+      "PackagePath": "staticwebassets\\windows11\\StoreLogo.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\StoreLogo.scale-150.png",
+      "PackagePath": "staticwebassets\\windows11\\StoreLogo.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\StoreLogo.scale-200.png",
+      "PackagePath": "staticwebassets\\windows11\\StoreLogo.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\StoreLogo.scale-400.png",
+      "PackagePath": "staticwebassets\\windows11\\StoreLogo.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Wide310x150Logo.scale-100.png",
+      "PackagePath": "staticwebassets\\windows11\\Wide310x150Logo.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Wide310x150Logo.scale-125.png",
+      "PackagePath": "staticwebassets\\windows11\\Wide310x150Logo.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Wide310x150Logo.scale-150.png",
+      "PackagePath": "staticwebassets\\windows11\\Wide310x150Logo.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Wide310x150Logo.scale-200.png",
+      "PackagePath": "staticwebassets\\windows11\\Wide310x150Logo.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\windows11\\Wide310x150Logo.scale-400.png",
+      "PackagePath": "staticwebassets\\windows11\\Wide310x150Logo.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\workbox-3e911b1d.js",
+      "PackagePath": "staticwebassets\\workbox-3e911b1d.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ExamenBazar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ExamenBazar.props",
+      "PackagePath": "build\\ExamenBazar.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ExamenBazar.props",
+      "PackagePath": "buildMultiTargeting\\ExamenBazar.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ExamenBazar.props",
+      "PackagePath": "buildTransitive\\ExamenBazar.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

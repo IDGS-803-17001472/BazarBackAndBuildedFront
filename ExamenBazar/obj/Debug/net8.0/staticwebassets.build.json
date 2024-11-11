@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "krXVz+m+T0ojv1Dd5Q79NSwTo1mrPMMvu1rCaH6/qJk=",
+  "Source": "ExamenBazar",
+  "BasePath": "_content/ExamenBazar",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExamenBazar\\wwwroot",
+      "Source": "ExamenBazar",
+      "ContentRoot": "C:\\Users\\nano_\\source\\repos\\ExamenBazar\\ExamenBazar\\wwwroot\\",
+      "BasePath": "_content/ExamenBazar",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
